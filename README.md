@@ -107,5 +107,45 @@ pos-eda/
 
 ![POS Sales](plot/edu.png)
 
-قطاع الطيران ي
+
+قطاع الطيران يشهد ازدهار في الصيف
+
+![POS Sales](plot/flight.png)
+
+## موسم رمضان والعيد تنشط فيه الكثير من القطاعات
+
+### الشحن
+![POS Sales](plot/ship.png)
+
+### الملبوسات
+
+![POS Sales](plot/cloth.png)
+
+### المجوهرات 
+
+![POS Sales](plot/jey.png)
+
+### المخبوزات
+
+![POS Sales](plot/sweet_baker.png)
+
+### العناية الشخصية
+
+![POS Sales](plot/personal_care.png)
+
+ولكن رغم ذلك قطاع المطاعم يشهد بعض الفتور في تلك الفترة
+
+![POS Sales](plot/rest_cafe.png)
+
+ويوضح الرسم البياني التالي حجم الانخفاض
+
+![POS Sales](plot/line.png)
+
+
+ومجملا هذا هو الاجمالي لكل القطاعات 
+
+![POS Sales](plot/total.png)
+
+
+## الارتباط (corr
 
