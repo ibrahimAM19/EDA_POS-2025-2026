@@ -147,9 +147,17 @@ pos-eda/
 ![POS Sales](plot/total.png)
 
 
+
 ## الارتباط (correlation )
 
-يوضح هذا الجدول الارتباط بين القطاعات الرئيسية 
+يوضح هذا الجدول الارتباط بين القطاعات الرئيسية
+
 يوجد بعض الارتباطات القوية ولكن هذا ليس كافي لدعاء السببية
+
 ![POS Sales](plot/corr.png)
 
+
+# المصدر
+منصة البنك المركزي السعودي للبيانات المفتوحة
+
+https://www.sama.gov.sa/ar-sa/Publications/EconomicReports/Pages/database.aspx
